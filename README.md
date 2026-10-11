@@ -56,6 +56,7 @@ The project follows a structured workflow from raw data preparation to dashboard
 7. **Customer Segment Analysis:** Customer segments were compared by revenue contribution, profit, and order value to understand their business importance.
 8. **Return Analysis:** Returned orders were analyzed against total orders to measure the overall return rate and identify patterns across product categories and order statuses.
 
+<img width="1602" height="623" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/511543f8-14f6-4ef0-8907-2dbdebe208cc" />
 
 ## Automation and Reporting Approach
 
